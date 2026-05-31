@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V4d2RjYm93Zm8ybXQ4Zm9sa2FlZHBnNXc3eWx4NG1mbWhqMGlubSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="300">
-</p>
-
 # 💫 About Me:
 🔭 I'm currently working on<br><br>An Emotional-Aware Medical Communication Assistant using AI/NLP<br><br>👯 I'm looking to collaborate on<br><br>Open-source AI/ML projects<br>Python-based applications and recommendation systems<br><br>🛠️ I'm looking for help with<br><br>Production-ready ML systems<br>System design and scalable architectures<br><br>🌱 I'm currently learning<br><br>Machine Learning<br>Cloud computing<br>Data Structures & Algorithms<br><br>💬 Ask me about<br><br>Python<br>Machine Learning fundamentals<br>Git & GitHub<br><br>⚡ Fun fact<br><br>I enjoy turning random ideas into projects and learning new technologies by building things.
 
